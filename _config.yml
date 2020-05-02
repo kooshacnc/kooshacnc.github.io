@@ -11,11 +11,11 @@ description-fa: "خدمات CNC کوشا"
 
 # Team names, titles and social links
 team:
-- name: Ebrahim GHyasvand
+- name: آبراهیم قیاسوند
   name-fa: سعید کیوان فر
   pic: https://avatars0.githubusercontent.com/u/6297600
   position-fa: برنامه‌نویس
-  position: Programmer
+  position: مدیر
   description: سابقه همکاری در شرکت های مختلف
   social:
   - title: github
